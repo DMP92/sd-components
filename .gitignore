@@ -1,7 +1,5 @@
 .DS_Store
 node_modules
-feature/horizontalScroll/src/style.css
-feature/horizontalScroll/src/index.html
 feature/horizontalScroll/dist/assets/index-C9mT9f8c.js.map
 feature/horizontalScroll/dist/assets/index-D1DWOgvg.css
 feature/horizontalScroll/dist/index.html
@@ -11,4 +9,3 @@ feature/horizontalScroll/src/index.js
 feature/horizontalScroll/vite.config.js
 feature/horizontalScroll/dist/assets/index-Q1n_dyzE.js.map
 feature/horizontalScroll/dist/HorizontalScroll.iife.js.map
-feature/horizontalScroll/src/
