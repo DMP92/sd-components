@@ -31,7 +31,7 @@ export default class HorizontalScroll {
                 pin: true,
                 scrub: 1,
                 end: () => "+=" + (this.wrapper.offsetWidth * this.panelGroup.length - 1),
-                ...(snapEnabled && { snap: {
+                ...(this.snapEnabled && { snap: {
                     snapTo: 1 / (this.panelGroup.length - 1),
                     inertia: false,
                     duration: { min: 0.2, max: 0.3 },
